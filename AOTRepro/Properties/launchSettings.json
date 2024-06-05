@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AOTRepro (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AOTRepro (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
